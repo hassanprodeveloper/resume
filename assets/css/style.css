@@ -1,0 +1,15 @@
+.no-link-style,
+.no-link-style:hover,
+.no-link-style:focus,
+.no-link-style:active {
+  text-decoration: none;
+  color: inherit;
+}
+.badge-text-link {
+  text-decoration: none;
+  color: #fff;
+}
+.badge-text-link:hover {
+  text-decoration: none;
+  color: #fff;
+}
